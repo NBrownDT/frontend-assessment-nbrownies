@@ -1,0 +1,21 @@
+.Root {
+  display: grid;
+  /* background: var(--colour-white); */
+  grid-template-columns: 1fr 1fr;
+  gap: calc(var(--spacing-small) / 2);
+  padding: var(--spacing-small);
+}
+
+@media screen AND (min-width: 768px) {
+  .Root {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-base);
+    padding: var(--spacing-base);
+  }
+}
+
+@media screen AND (min-width: 1014px) {
+  .Root {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

@@ -1,0 +1,48 @@
+.Root {
+  background: var(--colour-white);
+  border: var(--colour-light) 1px solid;
+  font-size: 0.78rem;
+}
+
+.title {
+  padding: var(--spacing-small);
+  line-height: 1;
+  font-size: clamp(0.88rem, 2vw, 1.2rem);
+}
+
+.meta {
+  display: flex;
+  padding: var(--spacing-small);
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-small);
+  border-top: var(--colour-light) 1px dashed;
+}
+
+.reviewsDetail {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 4px;
+}
+
+.reviewsAverage {
+  font-size: 0.8rem;
+  letter-spacing: -0.18em;
+  line-height: 1;
+  color: var(--colour-primary);
+}
+
+.reviewsCount {
+  font-size: 0.8rem;
+}
+
+.figure {
+  
+}
+
+.heroImage {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}

@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard tests renders the ProductCard correctly 1`] = `
+<div>
+  <article
+    class="Root"
+  >
+    <figure
+      class="figure"
+    >
+      <img
+        alt="Onboarding Giftbox with Strong Coffee"
+        class="heroImage"
+        data-nimg="1"
+        decoding="async"
+        height="240"
+        loading="lazy"
+        src="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-coffee.webp&w=640&q=75"
+        srcset="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-coffee.webp&w=256&q=75 1x, /_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-coffee.webp&w=640&q=75 2x"
+        style="color: transparent;"
+        width="240"
+      />
+    </figure>
+    <h3
+      class="title"
+    >
+      Onboarding Giftbox with Strong Coffee
+    </h3>
+    <div
+      class="meta"
+    >
+      <p
+        class="price"
+      >
+        £0.01
+      </p>
+      <div
+        class="reviewsContainer"
+      >
+        <p
+          class="reviewsDetail"
+        >
+          <span
+            class="reviewsAverage"
+          >
+            ★★★★☆
+          </span>
+          <span
+            class="reviewsCount"
+          >
+            (
+            42
+            )
+          </span>
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

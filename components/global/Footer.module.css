@@ -1,0 +1,6 @@
+.siteFooter {
+  background: var(--colour-secondary-light);
+  color: var(--colour-secondary-dark);
+  padding: var(--spacing-large);
+  font-size: 0.8rem;
+}

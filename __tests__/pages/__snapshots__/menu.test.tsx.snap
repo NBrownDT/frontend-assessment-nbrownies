@@ -1,0 +1,553 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu Page renders the menu page correctly 1`] = `
+<div>
+  <header
+    class="siteHeader"
+  >
+    <div
+      class="headerUI"
+    >
+      <div
+        class="brand"
+      >
+        <img
+          alt="N Brownies Logomark"
+          class="logomark"
+          data-nimg="1"
+          decoding="async"
+          height="100"
+          loading="lazy"
+          src="/_next/image?url=%2Fimages%2Fnbrownies-logo.png&w=256&q=75"
+          srcset="/_next/image?url=%2Fimages%2Fnbrownies-logo.png&w=128&q=75 1x, /_next/image?url=%2Fimages%2Fnbrownies-logo.png&w=256&q=75 2x"
+          style="color: transparent;"
+          width="100"
+        />
+        <h1
+          class="brandType"
+        >
+          N Brownies
+        </h1>
+      </div>
+      <div
+        class="utils"
+      >
+        <nav
+          class="siteNav"
+        >
+          <a
+            class="navLinkActive navLink"
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            class="navLink"
+            href="/menu"
+          >
+            Shop
+          </a>
+        </nav>
+      </div>
+    </div>
+  </header>
+  <main
+    class="defaultLayoutContent"
+  >
+    <div
+      class="Root"
+    >
+      <h2
+        class="title"
+      >
+        For all occasions.
+      </h2>
+      <div
+        class="content"
+      >
+        <p>
+          We're 
+          <strong>
+            absolutely nuts
+          </strong>
+           about our brownies, and we're sure that you will be! If you're shopping for a gift, our bundles 
+          <strong>
+            100% guarantee
+          </strong>
+           brownie points!
+        </p>
+      </div>
+    </div>
+    <div
+      class="Root"
+    >
+      <div
+        class="filters"
+      >
+        <div
+          class="filter"
+        >
+          <input
+            class="checkbox"
+            data-taxonomy="topLevel"
+            id="newIn"
+            name="newIn"
+            type="checkbox"
+          />
+          <label
+            class="label"
+            for="newIn"
+          >
+            New In
+          </label>
+        </div>
+        <div
+          class="filter"
+        >
+          <input
+            class="checkbox"
+            data-taxonomy="dietary"
+            id="glutenFree"
+            name="glutenFree"
+            type="checkbox"
+          />
+          <label
+            class="label"
+            for="glutenFree"
+          >
+            Gluten-Free
+          </label>
+        </div>
+        <div
+          class="filter"
+        >
+          <input
+            class="checkbox"
+            data-taxonomy="dietary"
+            id="halal"
+            name="halal"
+            type="checkbox"
+          />
+          <label
+            class="label"
+            for="halal"
+          >
+            Halal
+          </label>
+        </div>
+        <div
+          class="filter"
+        >
+          <input
+            class="checkbox"
+            data-taxonomy="dietary"
+            id="nutFree"
+            name="nutFree"
+            type="checkbox"
+          />
+          <label
+            class="label"
+            for="nutFree"
+          >
+            Nut-Free
+          </label>
+        </div>
+        <div
+          class="filter"
+        >
+          <input
+            class="checkbox"
+            data-taxonomy="dietary"
+            id="vegan"
+            name="vegan"
+            type="checkbox"
+          />
+          <label
+            class="label"
+            for="vegan"
+          >
+            Vegan
+          </label>
+        </div>
+        <div
+          class="filter"
+        >
+          <input
+            class="checkbox"
+            data-taxonomy="dietary"
+            id="wheatFree"
+            name="wheatFree"
+            type="checkbox"
+          />
+          <label
+            class="label"
+            for="wheatFree"
+          >
+            Wheat-Free
+          </label>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Root"
+    >
+      <article
+        class="Root"
+      >
+        <figure
+          class="figure"
+        >
+          <img
+            alt="Onboarding Giftbox with Strong Coffee"
+            class="heroImage"
+            data-nimg="1"
+            decoding="async"
+            height="240"
+            loading="lazy"
+            src="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-coffee.webp&w=640&q=75"
+            srcset="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-coffee.webp&w=256&q=75 1x, /_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-coffee.webp&w=640&q=75 2x"
+            style="color: transparent;"
+            width="240"
+          />
+        </figure>
+        <h3
+          class="title"
+        >
+          Onboarding Giftbox with Strong Coffee
+        </h3>
+        <div
+          class="meta"
+        >
+          <p
+            class="price"
+          >
+            £15.99
+          </p>
+          <div
+            class="reviewsContainer"
+          >
+            <p
+              class="reviewsDetail"
+            >
+              <span
+                class="reviewsAverage"
+              >
+                ★★★★☆
+              </span>
+              <span
+                class="reviewsCount"
+              >
+                (
+                42
+                )
+              </span>
+            </p>
+          </div>
+        </div>
+      </article>
+      <article
+        class="Root"
+      >
+        <figure
+          class="figure"
+        >
+          <img
+            alt="Birthday Mini Giftbox with Fizz"
+            class="heroImage"
+            data-nimg="1"
+            decoding="async"
+            height="240"
+            loading="lazy"
+            src="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-fizz-mini.webp&w=640&q=75"
+            srcset="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-fizz-mini.webp&w=256&q=75 1x, /_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-fizz-mini.webp&w=640&q=75 2x"
+            style="color: transparent;"
+            width="240"
+          />
+        </figure>
+        <h3
+          class="title"
+        >
+          Birthday Mini Giftbox with Fizz
+        </h3>
+        <div
+          class="meta"
+        >
+          <p
+            class="price"
+          >
+            £22.99
+          </p>
+          <div
+            class="reviewsContainer"
+          >
+            <p
+              class="reviewsDetail"
+            >
+              <span
+                class="reviewsAverage"
+              >
+                ★★★★☆
+              </span>
+              <span
+                class="reviewsCount"
+              >
+                (
+                4
+                )
+              </span>
+            </p>
+          </div>
+        </div>
+      </article>
+      <article
+        class="Root"
+      >
+        <figure
+          class="figure"
+        >
+          <img
+            alt="Birthday Giftbox with Fizz"
+            class="heroImage"
+            data-nimg="1"
+            decoding="async"
+            height="240"
+            loading="lazy"
+            src="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-fizz.webp&w=640&q=75"
+            srcset="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-fizz.webp&w=256&q=75 1x, /_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-fizz.webp&w=640&q=75 2x"
+            style="color: transparent;"
+            width="240"
+          />
+        </figure>
+        <h3
+          class="title"
+        >
+          Birthday Giftbox with Fizz
+        </h3>
+        <div
+          class="meta"
+        >
+          <p
+            class="price"
+          >
+            £27.99
+          </p>
+          <div
+            class="reviewsContainer"
+          >
+            <p
+              class="reviewsDetail"
+            >
+              <span
+                class="reviewsAverage"
+              >
+                ★★★★☆
+              </span>
+              <span
+                class="reviewsCount"
+              >
+                (
+                42
+                )
+              </span>
+            </p>
+          </div>
+        </div>
+      </article>
+      <article
+        class="Root"
+      >
+        <figure
+          class="figure"
+        >
+          <img
+            alt="Birthday Giftbox (wheat-free)"
+            class="heroImage"
+            data-nimg="1"
+            decoding="async"
+            height="240"
+            loading="lazy"
+            src="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-wheat-free.webp&w=640&q=75"
+            srcset="/_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-wheat-free.webp&w=256&q=75 1x, /_next/image?url=%2Fimages%2Fproducts%2Fbrownies-birthday-wheat-free.webp&w=640&q=75 2x"
+            style="color: transparent;"
+            width="240"
+          />
+        </figure>
+        <h3
+          class="title"
+        >
+          Birthday Giftbox (wheat-free)
+        </h3>
+        <div
+          class="meta"
+        >
+          <p
+            class="price"
+          >
+            £28.99
+          </p>
+          <div
+            class="reviewsContainer"
+          >
+            <p
+              class="reviewsDetail"
+            >
+              <span
+                class="reviewsAverage"
+              >
+                ★★★★☆
+              </span>
+              <span
+                class="reviewsCount"
+              >
+                (
+                42
+                )
+              </span>
+            </p>
+          </div>
+        </div>
+      </article>
+    </div>
+    <select
+      class="Root"
+    >
+      <option
+        value="popular"
+      >
+        Popularity
+      </option>
+      <option
+        value="price-high"
+      >
+        Price (Highest First)
+      </option>
+      <option
+        value="price-low"
+      >
+        Price (Lowest First)
+      </option>
+      <option
+        value="carbs-high"
+      >
+        Carbs (Highest First)
+      </option>
+      <option
+        value="carbs-low"
+      >
+        Carbs (Lowest First)
+      </option>
+    </select>
+  </main>
+  <footer
+    class="siteFooter"
+  >
+    <p>
+      N Brownies is an entirely ficticious entitty, used in this context by 
+      <a
+        href="https://www.nbrown.co.uk/"
+      >
+        N Brown Plc
+      </a>
+       for technical assesments.
+    </p>
+  </footer>
+</div>
+`;
+
+exports[`Menu Page renders the menu page correctly when data is still loading 1`] = `
+<div>
+  <header
+    class="siteHeader"
+  >
+    <div
+      class="headerUI"
+    >
+      <div
+        class="brand"
+      >
+        <img
+          alt="N Brownies Logomark"
+          class="logomark"
+          data-nimg="1"
+          decoding="async"
+          height="100"
+          loading="lazy"
+          src="/_next/image?url=%2Fimages%2Fnbrownies-logo.png&w=256&q=75"
+          srcset="/_next/image?url=%2Fimages%2Fnbrownies-logo.png&w=128&q=75 1x, /_next/image?url=%2Fimages%2Fnbrownies-logo.png&w=256&q=75 2x"
+          style="color: transparent;"
+          width="100"
+        />
+        <h1
+          class="brandType"
+        >
+          N Brownies
+        </h1>
+      </div>
+      <div
+        class="utils"
+      >
+        <nav
+          class="siteNav"
+        >
+          <a
+            class="navLinkActive navLink"
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            class="navLink"
+            href="/menu"
+          >
+            Shop
+          </a>
+        </nav>
+      </div>
+    </div>
+  </header>
+  <main
+    class="defaultLayoutContent"
+  >
+    <div
+      class="Root"
+    >
+      <h2
+        class="title"
+      >
+        For all occasions.
+      </h2>
+      <div
+        class="content"
+      >
+        <p>
+          We're 
+          <strong>
+            absolutely nuts
+          </strong>
+           about our brownies, and we're sure that you will be! If you're shopping for a gift, our bundles 
+          <strong>
+            100% guarantee
+          </strong>
+           brownie points!
+        </p>
+      </div>
+    </div>
+    <p>
+      Loading Brownies…
+    </p>
+  </main>
+  <footer
+    class="siteFooter"
+  >
+    <p>
+      N Brownies is an entirely ficticious entitty, used in this context by 
+      <a
+        href="https://www.nbrown.co.uk/"
+      >
+        N Brown Plc
+      </a>
+       for technical assesments.
+    </p>
+  </footer>
+</div>
+`;

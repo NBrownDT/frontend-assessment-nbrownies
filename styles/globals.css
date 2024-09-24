@@ -1,0 +1,61 @@
+:root {
+  --spacing-base: 1rem;
+  --spacing-large: calc(var(--spacing-base) * 2);
+  --spacing-small: calc(var(--spacing-base) / 2);
+  --colour-primary: #401811;
+  --colour-primary-light: #502821;
+  --colour-secondary: #a4dfde;
+  --colour-secondary-light: #d3e6e0;
+  --colour-secondary-dark: #344950;
+  --colour-gold: #6a5b2d;
+  --colour-dark: #121212;
+  --colour-black: black;
+  --colour-light: #EAEAEA;
+  --colour-white: white;
+}
+
+html,
+body {
+  background: var(--colour-light);
+  color: var(--colour-dark);
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Gaegu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 19px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3 {
+  font-family: "BioRhyme", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  line-height: 1.1;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  color: var(--colour-primary)
+}
+
+strong {
+  background: var(--colour-secondary-light);
+  font-weight: normal;
+}

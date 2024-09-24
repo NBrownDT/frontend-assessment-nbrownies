@@ -1,0 +1,20 @@
+.Root {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  appearance: none;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  position: fixed;
+  bottom: var(--spacing-base);
+  right: var(--spacing-base);
+  padding: var(--spacing-base) 30px;
+  padding-right: var(--spacing-large);
+  color: var(--colour-white);
+  border-radius: 32px;
+  font-size: 0.7rem;
+  font-weight: bold;
+  box-shadow: rgb(255 255 255 / 70%) 0 0 0 8px;
+  background: var(--colour-primary-light) url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPHBhdGggZmlsbD0idHJhbnNwYXJlbnQiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtNiA5IDYgNiA2LTYiLz4KPC9zdmc+Cg==") calc(100% - 12px) 50% / 28px no-repeat;
+}

@@ -1,0 +1,15 @@
+.Root {
+  text-align: center;
+  padding: var(--spacing-base);
+  margin-top: var(--spacing-base);
+  margin-inline: auto;
+  max-width: 640px;
+}
+
+.title {
+  margin-block-end: var(--spacing-base);
+}
+
+.content p{
+  margin-bottom: var(--spacing-small);
+}
